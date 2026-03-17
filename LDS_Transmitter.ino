@@ -7,8 +7,8 @@
 // --- CONFIGURATION ---
 #define WIFI_SSID "TEST WIFI"
 #define WIFI_PASSWORD "SECURE@LANDSLIDE"
-#define API_KEY "AIzaSyB2YCc69pcEUrqcUUJqkWqqnzrZiJ-ghKY"//replace with your API key
-#define DATABASE_URL "https://lds--0-default-rtdb.firebaseio.com"//replace with your database
+#define API_KEY "AIzaSyB2YCc69pcEUrqcUUJqkWqqnzrZiJ-g####"//replace with your API key
+#define DATABASE_URL "https://lds--0-de####-rtdb.firebaseio.com"//replace with your database
 
 // REPLACE WITH YOUR RECEIVER MAC ADDRESS
 uint8_t broadcastAddress[] = {0x24, 0x6F, 0x28, 0xAE, 0xD5, 0x84}; 
